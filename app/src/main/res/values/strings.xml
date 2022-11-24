@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application teste</string>
+    <string name="boas_vindas">Olá Mundo!</string>
+    <string name="button_inicio">Entrar</string>
+</resources>
